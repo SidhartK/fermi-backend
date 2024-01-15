@@ -1,0 +1,12 @@
+numpy
+pandas
+openai
+langchain
+langchain_openai
+langchain_core
+langchain_community
+flask
+flask_cors
+flask[async]
+gunicorn
+python-dotenv
